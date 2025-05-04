@@ -2,6 +2,9 @@
 
 This repository contains the notebook `fine_tuned_qwen_3_0_6b_creative_writing_clean.ipynb`, which documents the fine-tuning of the Qwen/Qwen3-0.6B model for creative writing tasks, specifically storytelling and dialogue generation. The fine-tuning was performed using the Gryphe/ChatGPT-4o-Writing-Prompts dataset, resulting in a lightweight model capable of generating coherent and creative stories.
 
+## HuggingFace link of the finetuned model
+https://huggingface.co/Shriharsh/qwen3-0.6b-creative-writing
+
 ## Project Overview
 
 The goal of this project was to fine-tune a smaller large language model (383M parameters) to generate high-quality creative writing outputs, such as stories and dialogues, using a dataset of prompt-response pairs from ChatGPT-4o. The fine-tuned model is available on Hugging Face at Shriharsh/qwen3-0.6b-creative-writing.
